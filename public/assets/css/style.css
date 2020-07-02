@@ -1,3 +1,18 @@
+.jumbotron {
+  background-image: url("../images/top-banner.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black;
+  text-decoration: solid;
+  height: 100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
 img {
 width: 25%;
 height: auto;
@@ -8,8 +23,8 @@ display: block;
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
   }
+
   
   .label {
     font-weight: bold;
